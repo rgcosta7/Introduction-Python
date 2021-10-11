@@ -1,1 +1,2 @@
-Hello guys, this is my repo from the first year of NPA Cyber Security 
+Here are the Labs from Netacad for the course "Programming Essentials in Python"
+I'll upload as I'm going along the course
